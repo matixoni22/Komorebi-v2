@@ -1,0 +1,2 @@
+Responsive web desigh:
+- try to use em extend of px, because em i relative to your standard text size and for smaller displays it scalling property.
