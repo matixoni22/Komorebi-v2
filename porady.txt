@@ -1,2 +1,14 @@
 Responsive web desigh:
+- to responsive set fontsize at body 100%
 - try to use em extend of px, because em i relative to your standard text size and for smaller displays it scalling property.
+- margin need to go with "auto" to center automaticly
+-try to use a (%)percent values for makeing layout
+-calculate size of page (for example precent counting)
+- to set your backgroud we need to set bg and repete.
+- to shrink the img try to use max-widh
+- media queries: is a test for find out is there is a mobile phone or pc
+	+ to make this @media screen and (*some values may 800px*) after write behavior of our site
+	+ there is a way to set this in the html site. To do this we need to set media in atribute of css 
+	setings.
+- to set some atributes for all elements type *{}
+-even we dont had a text in our div try to set font-size in em usits
