@@ -56,13 +56,12 @@ section{
 }
 	/*menu z anime */
 .menu{
-	height:4em;
-	width:auto;
-	float:left;
+
 }
 .menu img {
 	float:left;
-	height:200px;
+	margin:2%;
+	height: 15em;
 	width:auto;
 }
 /*aside options*/
