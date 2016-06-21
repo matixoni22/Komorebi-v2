@@ -12,3 +12,9 @@ Responsive web desigh:
 	setings.
 - to set some atributes for all elements type *{}
 -even we dont had a text in our div try to set font-size in em usits
+-try to not place the font size to all elements to not destory the border lines example
+
+STUFF TO DO:
+1. Mobile/responsive
+	- shrinking list on header. It need to change in one icon and tried to do list in js
+	to make menu.
