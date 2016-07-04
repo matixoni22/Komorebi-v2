@@ -29,12 +29,12 @@ h2{
 /*Header settings*/
 header{
 	font-size:3.5em;
-	width:98%;
+	width:99%;
 	height:auto;
 	margin-left:0.5%;
 	margin-right:0.5%;
 	margin-top:1%;
-	padding: 0.5%;
+	padding: 0;
 	background-color: #FFFB00;
 	outline: 0.1em solid black;
 }

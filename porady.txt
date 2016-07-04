@@ -18,3 +18,12 @@ STUFF TO DO:
 1. Mobile/responsive
 	- shrinking list on header. It need to change in one icon and tried to do list in js
 	to make menu.
+2. Script for the visual changeing on button in headline.
+	
+JS Helps:
+	- // comment. multiline /* */
+	- escape marks \"if we want to place quotation mark"\
+	- to use function just type it example function name_of_func(){}
+	- Variable:
+		global-outside the function
+		lokal- inside the function
