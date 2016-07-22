@@ -1,0 +1,7 @@
+ToDo list:
+	-Przyciski nawigacji animowane.
+	-Header sticky i zwijaj¹cy siê podczas zje¿dzania w dó³ strony.
+	-Dodanie media querris do:
+		*przycisków animacji
+		*do wyœwietlenia listy nowych 
+	-dodaæ kolejn¹ podstrone i ikonke nawigacji news

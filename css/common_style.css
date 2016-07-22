@@ -1,0 +1,77 @@
+/***************Common values****************/
+	/******adding font*******/
+	@font-face{
+		font-family: MandelFilled;          /*SPRAWDZIC!!!!!!*/
+		src: url('fonts/MandelFilled.ttf');
+	}
+	/*****for all elements*********/
+	*{
+		word-wrap:break-word;
+		padding:0;
+		margin:0;
+		font-size:100%;
+		width:100%;
+		font-family: 'Lato', sans-serif;
+	}
+	html, body{
+		min-width:20em;
+		height:100%;
+		background:#628399;
+	}
+	/**********header options*********/
+	header{
+		font-family: 'MandelFilled'; /*SPRAWDZIC!!!!!!*/
+		overflow:auto;
+		font-size:3em;
+		position:relative;
+		background:#3D5E8E;
+		text-align:center;
+		border-bottom:0.1em solid black;
+	}
+	header img{
+		float:left;
+		width:1.5em;
+		height:auto;
+	}
+	#header_list{
+		width:1em;
+		height:auto;
+		float:right;
+		margin-top:0.1em;
+		margin-right:0.5em;
+		border: 0.05em solid black;
+		border-radius:0.2em;
+		background:#0F7358;
+		padding:0.05em;
+	}
+	#header_list img{
+		width:1em;
+		height:auto;
+		display:block;
+	}
+	header img, header h1, #header_list{
+		display:inline;
+	}
+	/*********aside************/
+	aside{
+		float:right;
+		background:#41595C;
+	}
+	/********footer***********/
+	footer{
+		width:100%;
+		height:auto;
+		background:#0F7358;
+		text-align:center;
+	}
+	footer img{
+		width:1em;
+		height:auto;
+	}
+/************************************************/
+/*Section placeholder*/
+section {
+	text-align:center;
+	font-size:1.5em;
+}
+/*****************/

@@ -1,0 +1,41 @@
+/***********for phone devices**************/
+	/************header************/
+	#header_list{
+		display:none;
+	}
+	/*******navigation panel********/
+	[id^="nav"]{
+		display:inline-block;
+		background:#0F7358;
+		width:16%;
+		height:2.5em;
+		border:0.2em solid black;
+		border-radius: 0.5em;
+		padding:0.5%;
+	}
+	[id^="nav"] img{
+		width:2.5em;
+		height:auto;
+		display:block;
+		margin:0 auto;
+	}
+	#container_nav{
+		min-width:20em;
+		text-align:center;
+		bottom:0em;
+		overflow:visibility;
+		z-index:99;
+		position:fixed;
+	}
+	#container_nav h2{
+		display:none;
+	}
+	/********footer*********/
+	footer{
+		display:none;
+	}
+	/***********aside*******/
+	aside{
+		display:none;
+	}
+/**********************************************/

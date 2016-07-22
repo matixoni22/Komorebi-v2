@@ -14,11 +14,6 @@ Responsive web desigh:
 -even we dont had a text in our div try to set font-size in em usits
 -try to not place the font size to all elements to not destory the border lines example
 
-STUFF TO DO:
-1. Mobile/responsive
-	- shrinking list on header. It need to change in one icon and tried to do list in js
-	to make menu.
-2. Script for the visual changeing on button in headline.
 	
 JS Helps:
 	- // comment. multiline /* */
@@ -27,3 +22,11 @@ JS Helps:
 	- Variable:
 		global-outside the function
 		lokal- inside the function
+CSS:
+	-Matrix transformation 2D transform: matrix(1,2,3,4,5,6)
+	is a key to use this as the all function in css to Screw, rotate, scale, translate
+	 * 1 and 4 is scale (1=X ,4=Y)
+	 * 2 and 3 is scraw can work as rotate if it was the negative (2=horizontal, 3=vetical changes)
+	 * 4 and 5 work as transform (4=(+)right/(-)left, 5=(+)down/(-)Up)
+	 
+	-Matrix transformation is matrix (4x4) transform
